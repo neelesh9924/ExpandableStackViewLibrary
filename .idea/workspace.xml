@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cb734a9c-d628-4266-81f5-d1672d161a83" name="Changes" comment="- Created Library for StackFramework. Available at - https://github.com/neelesh9924/StackViewLibrary/" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[d90a8eab]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="navigationResourceFile" />
+        <option value="layoutResourceFile" />
+        <option value="Class" />
+        <option value="valueResourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="D:\Android Studio Backup\newSigningKey.jks" />
+    <option name="KEY_ALIAS" value="key0" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2RWultsf1OYCdP5yzluyyno4xba" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ApkExportedModule": "CardViewAnimation.app",
+    "BundleExportedModule": "CardViewAnimation.app",
+    "ExportApk.ApkPathForCardViewAnimation.app": "C:\\Users\\neele\\AndroidStudioProjects\\CardViewAnimation\\app",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "android-custom-viewC:/Users/neele/.gradle/caches/modules-2/files-2.1/androidx.cardview/cardview/1.0.0/c9f3ce7ca74ad2c978230f4094ba6804c5166f9c/cardview-1.0.0-sources.jar!/androidx/cardview/widget/CardView.java_SELECTED": "CardView",
+    "android-custom-viewC:/Users/neele/.gradle/caches/modules-2/files-2.1/com.google.android.material/material/1.5.0/8d3b87c7463f55053836b805e014cb238f64757a/material-1.5.0-sources.jar!/com/google/android/material/card/MaterialCardView.java_SELECTED": "MaterialCardView",
+    "android-custom-viewC:/Users/neele/AndroidStudioProjects/CardViewAnimation/StackViewLibrary/src/main/java/com/hoest/stackviewlibrary/StackViewLayout.java_SELECTED": "StackViewLayout",
+    "android-custom-viewC:/Users/neele/AndroidStudioProjects/CardViewAnimation/app/src/main/java/com/example/cardviewanimation/CustomCardView.java_SELECTED": "CustomCardView",
+    "android-custom-viewC:/Users/neele/AndroidStudioProjects/CardViewAnimation/app/src/main/java/com/example/customViews/StackViewLayout.java_SELECTED": "StackViewLayout",
+    "cidr.known.project.marker": "true",
+    "com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable": "ALL",
+    "last_opened_file_path": "C:/Users/neele/AndroidStudioProjects/CardViewAnimation/app/src/main/res/drawable",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  },
+  "keyToStringList": {
+    "ExportApk.BuildVariants": [
+      "release"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\neele\AndroidStudioProjects\CardViewAnimation\app\src\main\res\drawable" />
+      <recent name="C:\Users\neele\AndroidStudioProjects\CardViewAnimation\app\src\main\res\font" />
+      <recent name="C:\Users\neele\AndroidStudioProjects\CardViewAnimation\app\src\main\res\layout" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.customViews" />
+      <recent name="com.example.frameworks" />
+      <recent name="com.example.pojo" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="CardViewAnimation.app.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb734a9c-d628-4266-81f5-d1672d161a83" name="Changes" comment="" />
+      <created>1687378315070</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687378315070</updated>
+    </task>
+    <task id="LOCAL-00001" summary="- Creating a bottom sheet animation, where multiple cardViews are inflated one after another signifying different steps of any form etc.">
+      <created>1687401682696</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1687401682696</updated>
+    </task>
+    <task id="LOCAL-00002" summary="- Creating a bottom sheet animation, where multiple cardViews are inflated one after another signifying different steps of any form etc.">
+      <created>1687401939432</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1687401939432</updated>
+    </task>
+    <task id="LOCAL-00003" summary="- Returning Data to the mainFragment ✅">
+      <created>1687402686344</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1687402686344</updated>
+    </task>
+    <task id="LOCAL-00004" summary="- Returning Data to the mainFragment ✅&#10;- Found a way to fill the whole view of the expanded view">
+      <created>1687409284515</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1687409284515</updated>
+    </task>
+    <task id="LOCAL-00005" summary="- Returning Data to the mainFragment ✅&#10;- Found a way to fill the whole view of the expanded view ✅">
+      <created>1687420999891</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1687420999891</updated>
+    </task>
+    <task id="LOCAL-00006" summary="- Returning Data to the mainFragment ✅&#10;- Found a way to fill the whole view of the expanded view ✅">
+      <created>1687421626957</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1687421626957</updated>
+    </task>
+    <task id="LOCAL-00007" summary="- Returning Data to the mainFragment ✅&#10;- Found a way to fill the whole view of the expanded view ✅&#10;- Created a BottomSheetFragment">
+      <created>1687537708753</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1687537708753</updated>
+    </task>
+    <task id="LOCAL-00008" summary="- Returning Data to the mainFragment ✅&#10;- Found a way to fill the whole view of the expanded view ✅&#10;- Created a BottomSheetFragment&#10;- Dynamically adding the views to Framework without type casting any of it. ✅">
+      <created>1687550352715</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1687550352715</updated>
+    </task>
+    <task id="LOCAL-00009" summary="- Returning Data to the mainFragment ✅&#10;- Found a way to fill the whole view of the expanded view ✅&#10;- Created a BottomSheetFragment&#10;- Dynamically adding the views to Framework without type casting any of it. ✅&#10;- Maintaining auto generated layout and main layout visibility ✅">
+      <created>1687562505333</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1687562505333</updated>
+    </task>
+    <task id="LOCAL-00010" summary="- Dynamic Implementation of StackView Completed! ✅&#10;*Still looking for some areas to improvise">
+      <created>1687627733509</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1687627733509</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Finalising the project! ✅&#10;Key Features-&#10;&gt; Passing multiple layouts for any single step into the framework that you want to visible initially, while being on that step and afterwards&#10;&#10;&gt; Framework will create the compatible view that will create the stack effect&#10;&gt; Framework will handle the expand/collapse, as well as the host can handle by passing the card to expand method&#10;&gt; Handling of all the inflate layout views, buttons etc are from the host fragment, like listeners etc.&#10;&#10;Future Scope - There are still area of innovation, and better feature can also be achieved with this idea, looking forward to create a more flexible framework.">
+      <created>1687650040765</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1687650040765</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Update: Auto change color of next step on completion of current">
+      <created>1687653752883</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1687653752883</updated>
+    </task>
+    <task id="LOCAL-00013" summary="- Fixed minor bugs">
+      <created>1687654345877</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1687654345877</updated>
+    </task>
+    <task id="LOCAL-00014" summary="- Changed colors.xml">
+      <created>1687655003421</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1687655003421</updated>
+    </task>
+    <task id="LOCAL-00015" summary="- Created Library for StackFramework. Available at - https://github.com/neelesh9924/StackViewLibrary/">
+      <created>1687855652188</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1687855652189</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="- Creating a bottom sheet animation, where multiple cardViews are inflated one after another signifying different steps of any form etc." />
+    <MESSAGE value="- Returning Data to the mainFragment ✅" />
+    <MESSAGE value="- Returning Data to the mainFragment ✅&#10;- Found a way to fill the whole view of the expanded view" />
+    <MESSAGE value="- Returning Data to the mainFragment ✅&#10;- Found a way to fill the whole view of the expanded view ✅" />
+    <MESSAGE value="- Returning Data to the mainFragment ✅&#10;- Found a way to fill the whole view of the expanded view ✅&#10;- Created a BottomSheetFragment" />
+    <MESSAGE value="- Returning Data to the mainFragment ✅&#10;- Found a way to fill the whole view of the expanded view ✅&#10;- Created a BottomSheetFragment&#10;- Dynamically adding the views to Framework without type casting any of it. ✅" />
+    <MESSAGE value="- Returning Data to the mainFragment ✅&#10;- Found a way to fill the whole view of the expanded view ✅&#10;- Created a BottomSheetFragment&#10;- Dynamically adding the views to Framework without type casting any of it. ✅&#10;- Maintaining auto generated layout and main layout visibility ✅" />
+    <MESSAGE value="- Dynamic Implementation of StackView Completed! ✅&#10;*Still looking for some areas to improvise" />
+    <MESSAGE value="Finalising the project! ✅&#10;Key Features-&#10;&gt; Passing multiple layouts for any single step into the framework that you want to visible initially, while being on that step and afterwards&#10;&#10;&gt; Framework will create the compatible view that will create the stack effect&#10;&gt; Framework will handle the expand/collapse, as well as the host can handle by passing the card to expand method&#10;&gt; Handling of all the inflate layout views, buttons etc are from the host fragment, like listeners etc.&#10;&#10;Future Scope - There are still area of innovation, and better feature can also be achieved with this idea, looking forward to create a more flexible framework." />
+    <MESSAGE value="Update: Auto change color of next step on completion of current" />
+    <MESSAGE value="- Fixed minor bugs" />
+    <MESSAGE value="- Changed colors.xml" />
+    <MESSAGE value="- Created Library for StackFramework. Available at - https://github.com/neelesh9924/StackViewLibrary/" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Created Library for StackFramework. Available at - https://github.com/neelesh9924/StackViewLibrary/" />
+  </component>
+</project>

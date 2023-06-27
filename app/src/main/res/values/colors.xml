@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00000000</color>
+
+
+    <color name="color1" >#D0FBFF</color>
+
+    <color name="color2" >#EEBEFF</color>
+
+    <color name="color3" >#D0FBFF</color>
+
+    <color name="color4" >#EEBEFF</color>
+
+    <color name="disabledStepColor">#E0E0E0</color>
+
+</resources>

@@ -13,10 +13,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb734a9c-d628-4266-81f5-d1672d161a83" name="Changes" comment="- Library release v9">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jitpack.yml" beforeDir="false" afterPath="$PROJECT_DIR$/jitpack.yml" afterDir="false" />
-    </list>
+    <list default="true" id="cb734a9c-d628-4266-81f5-d1672d161a83" name="Changes" comment="- Library release v10" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -339,7 +336,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687906941636</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="- Library release v10">
+      <created>1687907861743</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1687907861743</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -380,6 +384,7 @@
     <MESSAGE value="- Library release v7" />
     <MESSAGE value="- Library release v8" />
     <MESSAGE value="- Library release v9" />
-    <option name="LAST_COMMIT_MESSAGE" value="- Library release v9" />
+    <MESSAGE value="- Library release v10" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Library release v10" />
   </component>
 </project>

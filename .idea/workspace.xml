@@ -13,10 +13,11 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb734a9c-d628-4266-81f5-d1672d161a83" name="Changes" comment="- Library release v3">
+    <list default="true" id="cb734a9c-d628-4266-81f5-d1672d161a83" name="Changes" comment="- Library release v4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/StackViewLibrary/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/StackViewLibrary/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -298,7 +299,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687902305302</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="- Library release v4">
+      <created>1687902629615</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1687902629615</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -333,6 +341,7 @@
     <MESSAGE value="- Library release v1" />
     <MESSAGE value="- Library release v2" />
     <MESSAGE value="- Library release v3" />
-    <option name="LAST_COMMIT_MESSAGE" value="- Library release v3" />
+    <MESSAGE value="- Library release v4" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Library release v4" />
   </component>
 </project>

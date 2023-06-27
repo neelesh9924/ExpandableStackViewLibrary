@@ -8,6 +8,9 @@ android {
     compileSdk 33
 
     defaultConfig {
+        aarMetadata {
+            minCompileSdk 24
+        }
         minSdk 24
         targetSdk 33
 

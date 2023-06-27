@@ -1,4 +1,4 @@
-# StackViewLibrary
+# ExpandableStackViewLibrary
 The StackView Library is a powerful and flexible Android library that simplifies the implementation of expandable and collapsible stack views in your Android application. It provides a convenient abstraction layer with customizable features, making it easy to create engaging and interactive stack-based user interfaces.
 
 ## Features

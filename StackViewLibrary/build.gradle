@@ -34,6 +34,7 @@ android {
     publishing {
         singleVariant('release'){
             withSourcesJar()
+            withJavadocJar()
         }
     }
 }
@@ -50,9 +51,9 @@ dependencies {
 publishing {
     publications {
         release(MavenPublication) {
-            groupId 'com.hoest.stackviewlibrary'
-            artifactId 'stackviewlibrary'
-            version '1.0.0'
+            groupId = 'com.example.cardviewanimation'
+            artifactId = 'ExpandableStackViewLibrary'
+            version = '1.0.0'
 
             afterEvaluate {
                 from components.release

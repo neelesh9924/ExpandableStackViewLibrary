@@ -23,7 +23,7 @@ To use the StackView Library in your Android project, follow these steps:
 2. Add the library as a dependency in your project's build.gradle file:
    ``` 
 	dependencies {
-	        implementation 'com.github.neelesh9924:StackViewLibrary:1.0.0'
+	        implementation 'com.github.neelesh9924:ExpandableStackViewLibrary:v1.1'
 	}
    ```
 3. Sync your project to ensure the library is successfully added.

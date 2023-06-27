@@ -13,7 +13,10 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb734a9c-d628-4266-81f5-d1672d161a83" name="Changes" comment="- Created Library for StackFramework. Available at - https://github.com/neelesh9924/StackViewLibrary/" />
+    <list default="true" id="cb734a9c-d628-4266-81f5-d1672d161a83" name="Changes" comment="- Created Library for StackFramework. Available at - https://github.com/neelesh9924/StackViewLibrary/">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StackViewLibrary/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/StackViewLibrary/build.gradle" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,6 +72,7 @@
     "android-custom-viewC:/Users/neele/AndroidStudioProjects/CardViewAnimation/StackViewLibrary/src/main/java/com/hoest/stackviewlibrary/StackViewLayout.java_SELECTED": "StackViewLayout",
     "android-custom-viewC:/Users/neele/AndroidStudioProjects/CardViewAnimation/app/src/main/java/com/example/cardviewanimation/CustomCardView.java_SELECTED": "CustomCardView",
     "android-custom-viewC:/Users/neele/AndroidStudioProjects/CardViewAnimation/app/src/main/java/com/example/customViews/StackViewLayout.java_SELECTED": "StackViewLayout",
+    "android.gradle.sync.needed": "true",
     "cidr.known.project.marker": "true",
     "com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable": "ALL",
     "last_opened_file_path": "C:/Users/neele/AndroidStudioProjects/CardViewAnimation/app/src/main/res/drawable",

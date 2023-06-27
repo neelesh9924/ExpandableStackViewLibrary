@@ -13,9 +13,10 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb734a9c-d628-4266-81f5-d1672d161a83" name="Changes" comment="- Library release">
+    <list default="true" id="cb734a9c-d628-4266-81f5-d1672d161a83" name="Changes" comment="- Library release v1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/StackViewLibrary/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/StackViewLibrary/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +73,7 @@
     "android-custom-viewC:/Users/neele/AndroidStudioProjects/CardViewAnimation/StackViewLibrary/src/main/java/com/hoest/stackviewlibrary/StackViewLayout.java_SELECTED": "StackViewLayout",
     "android-custom-viewC:/Users/neele/AndroidStudioProjects/CardViewAnimation/app/src/main/java/com/example/cardviewanimation/CustomCardView.java_SELECTED": "CustomCardView",
     "android-custom-viewC:/Users/neele/AndroidStudioProjects/CardViewAnimation/app/src/main/java/com/example/customViews/StackViewLayout.java_SELECTED": "StackViewLayout",
+    "android.gradle.sync.needed": "true",
     "cidr.known.project.marker": "true",
     "com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable": "ALL",
     "last_opened_file_path": "C:/Users/neele/AndroidStudioProjects/CardViewAnimation/app/src/main/res/drawable",
@@ -276,7 +278,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687900434876</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="- Library release v1">
+      <created>1687901209076</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1687901209076</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -308,6 +317,7 @@
     <MESSAGE value="- Changed colors.xml" />
     <MESSAGE value="- Created Library for StackFramework. Available at - https://github.com/neelesh9924/StackViewLibrary/" />
     <MESSAGE value="- Library release" />
-    <option name="LAST_COMMIT_MESSAGE" value="- Library release" />
+    <MESSAGE value="- Library release v1" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Library release v1" />
   </component>
 </project>

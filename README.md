@@ -11,7 +11,11 @@ The StackView Library is a powerful and flexible Android library that simplifies
   
 ## Installation
 To use the StackView Library in your Android project, follow these steps:
-1. Add the following in your root build.gradle
+1. Add the following in 'repositories' in your root build.gradle (Project Level Gradle)
+   ```
+   maven { url 'https://jitpack.io' }
+   ```
+   It'll look something like this:
    ```
    allprojects {
 		repositories {
@@ -20,13 +24,29 @@ To use the StackView Library in your Android project, follow these steps:
 		}
 	}
    ```
-2. Add the library as a dependency in your project's build.gradle file:
+2. Add the following similarily in *settings.gradle* file inside dependencyResolutionManagement. (REQUIRED)
+   ```
+   maven { url 'https://jitpack.io' }
+   ```
+   It'll look something like this:
+   ```
+   dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        maven { url "https://jitpack.io" }
+    }
+   }
+   ```
+   
+3. Add the library as a dependency in your project's build.gradle(app) file:
    ``` 
 	dependencies {
 	        implementation 'com.github.neelesh9924:ExpandableStackViewLibrary:v1.1'
 	}
    ```
-3. Sync your project to ensure the library is successfully added.
+4. Sync your project to ensure the library is successfully added.
 
 ## Usage
 To start using the StackView Library, follow these steps:

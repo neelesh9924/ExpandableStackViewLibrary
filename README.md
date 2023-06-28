@@ -77,7 +77,7 @@ To start using the StackView Library, follow these steps:
    
 > Third layout (post_layout) is the layout that you want to be visible when the step is collapsed and user have completed that step
 
-> Color is the backgroun color of particular step that you wish to have
+> Color is the background color of particular step that you wish to have
 
 3. Retrieve the views added to the stack using the getViews() method and implement the ViewsAddedListener interface to handle the inflated views.
   ```
